@@ -1,0 +1,5 @@
+# The name of the project.
+name: genezio-project
+# The version of the Genezio YAML configuration to parse.
+region: eu-central-1
+yamlVersion: 2
